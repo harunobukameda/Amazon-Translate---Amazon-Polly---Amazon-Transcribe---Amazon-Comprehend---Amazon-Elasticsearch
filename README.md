@@ -1,0 +1,1 @@
+# Amazon-Translate---Amazon-Polly---Amazon-Transcribe---Amazon-Comprehend---Amazon-Elasticsearch
